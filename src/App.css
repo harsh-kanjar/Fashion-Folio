@@ -1,0 +1,12 @@
+ 
+
+/* styles.css or your main CSS file */
+.toast-custom {
+    background-color: white; /* Background color */
+    color: black; /* Tailwind red-500 for text color */
+    border: 1px solid transparent; /* Optional: add border for better visibility */
+  }
+  
+  
+ 
+  
